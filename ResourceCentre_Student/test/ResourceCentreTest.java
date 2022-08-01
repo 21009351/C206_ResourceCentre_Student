@@ -161,7 +161,7 @@ public class ResourceCentreTest {
 		cb1 = null;
 		cb2 = null;
 		camcorderList = null;
-		chromebookList = null
+		chromebookList = null;
 
 	}
 
